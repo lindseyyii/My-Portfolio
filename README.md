@@ -5,6 +5,6 @@
   </div>
 </head>
 <body>
-  <img src="Home.png" alt="Home page"/> 
+  <img src="Home[1].png" alt="Home page"/> 
 </body>
 </html>

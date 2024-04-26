@@ -1,5 +1,5 @@
 <html>
-<head>
+  <div>
     <img src="Home[1].png" alt="Home page"/> 
       <style>
         .fit {
@@ -10,5 +10,5 @@
     <img src="Background[1].png" alt="Background"/>
     <img src="4[1].png" alt="Quote"/>
     <img src="Contact[1].png" alt="Contact"/>
-</head>
+  </div>
 </html>

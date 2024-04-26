@@ -9,7 +9,6 @@
     <img src="About[1].png" alt="About me"/>
     <img src="Background[1].png" alt="Background"/>
     <img src="4[1].png" alt="Quote"/>
-    <img src="Contact[1].png" alt="Contact"/>
   </div>
   </body>
 </html>

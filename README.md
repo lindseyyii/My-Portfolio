@@ -1,4 +1,7 @@
 <html>
+<head>
+  <title>My Portfolio</title>
+</head>
   <body style="background-color:black;">
   <div>
     <img src="Home[1].png" alt="Home page"/> 

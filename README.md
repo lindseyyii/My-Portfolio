@@ -4,7 +4,7 @@
 </head>
   <body style="background-color:black;">
   <a href="./graphicdesign.html">Graphic Design</a>
-  <a href="./officialtranscript.html">Transcript</a>
+  <a href="./officialtranscript.pdf">Transcript</a>
   <div>
     <img src="Home[1].png" alt="Home page" style="max-width:100%; max-height:100%;" />
     <img src="About[1].png" alt="About me"/>

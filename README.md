@@ -5,7 +5,7 @@
   <body style="background-color:black;">
   <style>
     a:link, a:visited {
-    background-color: #f44336;
+    background-color: black;
     color: black;
     border-radius: 12px;
     padding: 15px 25px;

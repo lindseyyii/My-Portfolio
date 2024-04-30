@@ -6,10 +6,10 @@
   <style>
     a:link, a:visited {
     background-color: black;
-    color: black;
-    border-radius: 12px;
+    color: white;
+    border-radius: 18px;
     padding: 15px 25px;
-    border: 2px solid white;
+    border: 1px solid white;
     text-align: center;
     text-decoration: none;
     display: inline-block;

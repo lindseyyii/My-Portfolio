@@ -8,12 +8,13 @@
     background-color: black;
     color: white;
     border-radius: 18px;
-    padding: 15px 25px;
+    padding: 8px 10px;
     border: 1px solid white;
     text-align: center;
     text-decoration: none;
     display: inline-block;
   }
+  
   </style>
   <a href="./graphicdesign" target="_blank">Graphic Design</a>
   <a href="./officialtranscript.pdf" target="_blank">Transcript</a>

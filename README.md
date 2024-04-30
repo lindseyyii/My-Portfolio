@@ -3,11 +3,11 @@
   <title>My Portfolio</title>
 </head>
   <body style="background-color:black;">
-  <a href="./graphicdesign" target="_blank">Graphic Design</a>
-    <style>
+  <style>
     a:link, a:visited {
     background-color: #f44336;
-    color: white;
+    color: black;
+    border-radius: 12px;
     padding: 15px 25px;
     text-align: center;
     text-decoration: none;
@@ -15,9 +15,10 @@
   }
 
   a:hover, a:active {
-    background-color: red;
+    background-color: black;
   }
   </style>
+  <a href="./graphicdesign" target="_blank">Graphic Design</a>
   <a href="./officialtranscript.pdf" target="_blank">Transcript</a>
   <a href="./resume.pdf" target="_blank">Resume</a>
   <div>

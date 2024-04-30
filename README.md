@@ -16,10 +16,10 @@
   }
 
   </style>
-  <a href="./graphicdesign" target="_blank">
+  <a href="./graphicdesign.html" target="_blank">
   Graphic Design
   </a>
-  <a href="./officialtranscript.pdf" target="_blank">Transcript
+  <a href="./officialtranscript.pdf" target="_blank">
   Transcript
   </a>
   <a href="./resume.pdf" target="_blank">

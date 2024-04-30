@@ -9,6 +9,7 @@
     color: black;
     border-radius: 12px;
     padding: 15px 25px;
+    border: 2px solid white;
     text-align: center;
     text-decoration: none;
     display: inline-block;

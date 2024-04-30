@@ -1,5 +1,6 @@
 <html>
 <head>
+  <title>My Portfolio</title>
 </head>
   <body style="background-color:black;">
   <style>

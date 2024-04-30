@@ -20,8 +20,12 @@
   <a href="./graphicdesign" target="_blank">
     <button style="background-color: black; color:#d1cfcf; border-radius: 20px; padding: 8px 12px; border: 1px solid white; text-align: center;">Graphic Design</button>
   </a>
-  <a href="./officialtranscript.pdf" target="_blank">Transcript</a>
-  <a href="./resume.pdf" target="_blank">Resume</a>
+  <a href="./officialtranscript.pdf" target="_blank">Transcript
+  <button style="background-color: black; color:#d1cfcf; border-radius: 20px; padding: 8px 12px; border: 1px solid white; text-align: center;">Transcript</button>
+  </a>
+  <a href="./resume.pdf" target="_blank">Resume
+  <button style="background-color: black; color:#d1cfcf; border-radius: 20px; padding: 8px 12px; border: 1px solid white; text-align: center;">Resume</button>
+  </a>
   <div>
     <img src="Home[1].png" alt="Home page" style="max-width:100%; max-height:100%;" />
     <img src="About[1].png" alt="About me"/>

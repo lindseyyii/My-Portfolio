@@ -5,7 +5,6 @@
   <body style="background-color:black;">
   <style>
     a:link, a:visited {
-    font-size: 5px;
     background-color: black;
     color: #d1cfcf;
     border-radius: 18px;
@@ -18,13 +17,13 @@
 
   </style>
   <a href="./graphicdesign" target="_blank">
-    <button style="background-color: black; color:#d1cfcf; border-radius: 20px; padding: 8px 12px; border: 1px solid white; text-align: center;">Graphic Design</button>
+  Graphic Design
   </a>
   <a href="./officialtranscript.pdf" target="_blank">Transcript
-  <button style="background-color: black; color:#d1cfcf; border-radius: 20px; padding: 8px 12px; border: 1px solid white; text-align: center;">Transcript</button>
+  Transcript
   </a>
-  <a href="./resume.pdf" target="_blank">Resume
-  <button style="background-color: black; color:#d1cfcf; border-radius: 20px; padding: 8px 12px; border: 1px solid white; text-align: center;">Resume</button>
+  <a href="./resume.pdf" target="_blank">
+  Resume
   </a>
   <div>
     <img src="Home[1].png" alt="Home page" style="max-width:100%; max-height:100%;" />

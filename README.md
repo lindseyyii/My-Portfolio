@@ -1,35 +1,63 @@
-<html>
-<head>
-  <title>My Portfolio</title>
-</head>
-  <body style="background-color:black;">
-  <style>
-    a:link, a:visited {
-    background-color: black;
-    color: #d1cfcf;
-    border-radius: 18px;
-    padding: 8px 15px;
-    border: 1px solid white;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    }
-    body {
-    text-align: right;
-    }
-  </style>
-  <a href="./graphicdesign.html" target="_blank">
-  Graphic Design
-  </a>
-  <a href="./resume.pdf" target="_blank">
-  Resume
-  </a>
-  <div>
-    <img src="Home[1].png" alt="Home page" style="max-width:100%; max-height:100%;" />
-    <img src="About[1].png" alt="About me"/>
-    <img src="Background[1].png" alt="Background"/>
-    <img src="4[1].png" alt="Quote"/>
-  </div>
-  </body>
-</html>
+# Project Title
+
+Simple overview of use/purpose.
+
+## Description
+
+An in-depth paragraph about your project and overview of use.
+
+## Getting Started
+
+### Dependencies
+
+* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+* ex. Windows 10
+
+### Installing
+
+* How/where to download your program
+* Any modifications needed to be made to files/folders
+
+### Executing program
+
+* How to run the program
+* Step-by-step bullets
+```
+code blocks for commands
+```
+
+## Help
+
+Any advise for common problems or issues.
+```
+command to run if program contains helper info
+```
+
+## Authors
+
+Contributors names and contact info
+
+ex. Dominique Pizzie  
+ex. [@DomPizzie](https://twitter.com/dompizzie)
+
+## Version History
+
+* 0.2
+    * Various bug fixes and optimizations
+    * See [commit change]() or See [release history]()
+* 0.1
+    * Initial Release
+
+## License
+
+This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+
+## Acknowledgments
+
+Inspiration, code snippets, etc.
+* [awesome-readme](https://github.com/matiassingers/awesome-readme)
+* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+* [dbader](https://github.com/dbader/readme-template)
+* [zenorocha](https://gist.github.com/zenorocha/4526327)
+* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
 

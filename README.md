@@ -14,7 +14,10 @@
     text-decoration: none;
     display: inline-block;
   }
-  
+  a:hover, a:active {
+    background-color: red;
+    background-color: black;
+  }
   </style>
   <a href="./graphicdesign" target="_blank">Graphic Design</a>
   <a href="./officialtranscript.pdf" target="_blank">Transcript</a>

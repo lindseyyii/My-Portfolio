@@ -13,6 +13,7 @@
     text-align: center;
     text-decoration: none;
     display: inline-block;
+    body{text-align: right;}
   }
 
   </style>

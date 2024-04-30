@@ -8,7 +8,7 @@
     background-color: black;
     color: #d1cfcf;
     border-radius: 18px;
-    padding: 8px 10px;
+    padding: 8px 15px;
     border: 1px solid white;
     text-align: center;
     text-decoration: none;

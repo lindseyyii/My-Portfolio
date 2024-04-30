@@ -13,6 +13,7 @@
     text-align: center;
     text-decoration: none;
     display: inline-block;
+    line-height: 20px;
   }
   a:hover, a:active {
     background-color: red;

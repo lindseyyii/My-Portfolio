@@ -6,14 +6,13 @@
   <style>
     a:link, a:visited {
     background-color: black;
-    color: white;
+    color: #d1cfcf;
     border-radius: 18px;
     padding: 8px 10px;
     border: 1px solid white;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    line-height: 20px;
   }
   a:hover, a:active {
     background-color: red;
